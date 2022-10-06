@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod -r ugo+r+x
+chmod -r 755
